@@ -1,0 +1,6 @@
+{
+  "name": "FC Barcelona Striker Analytics",
+  "description": "Interactive football scout analytics dashboard and historical database of FC Barcelona first-team strikers, featuring head-to-head comparisons and AI tactical scout reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
